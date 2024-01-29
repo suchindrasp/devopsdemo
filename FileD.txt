@@ -1,6 +1,2 @@
 This is FileD
-<<<<<<< HEAD
 Changing FileD Locally
-=======
-Changing the File to test the conflicts
->>>>>>> deef152d693c0c7f875ce09d252ae92bc3caaa18

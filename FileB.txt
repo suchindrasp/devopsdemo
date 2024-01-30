@@ -2,3 +2,5 @@ This is FileB
 Changing File B
 Adding 3rd line
 Adding 4th Line
+Line 5
+Line 6

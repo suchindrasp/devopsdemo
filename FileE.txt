@@ -2,3 +2,4 @@ This is FileE
 Changing FileE to test merge
 TO test conflict
 Adding line to test conflict
+Changing in github to test merge
